@@ -1,0 +1,23 @@
+{
+    "cSpell.words": [
+        "agentic",
+        "anyio",
+        "certifi",
+        "httpcore",
+        "httpx",
+        "idna",
+        "jsonpatch",
+        "jsonpointer",
+        "langchain",
+        "langgraph",
+        "langsmith",
+        "orjson",
+        "ormsgpack",
+        "pydantic",
+        "pyyaml",
+        "toolbelt",
+        "urllib",
+        "xxhash",
+        "zstandard"
+    ]
+}
